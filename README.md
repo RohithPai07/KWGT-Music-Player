@@ -19,3 +19,5 @@ A Repository Of KWGT Widgets That'll Make Your Screen Look More Better &amp; Cle
 3) MusicPlayer_0200: A Vertical More Of A Square Music Player With Album Name, Album Cover, Album Artist, Circular Progress Bar And All The Basic Music Actions (Play, Pause, Previous Song, Next Song)
 
 ![MusicPlayer_0200 kwgt](https://github.com/RohithPai07/KWGT-Widgets/assets/152018343/c9da3830-bfa5-4b4a-9b9b-68ba8d9fc319)
+
+*All the images shown are for illustration purposes only.
