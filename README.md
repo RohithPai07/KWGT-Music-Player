@@ -1,23 +1,24 @@
 # KWGT-Widgets
 A Repository Of KWGT Widgets That'll Make Your Screen Look More Better &amp; Cleaner
 
-1) MusicPlayer_0100: A Horizontal Music Player With Album Name, Album Cover, Album Artist, Linear Progress Bar And Basic Music Actions (Play, Pause, Previous Song, Next Song)
+**Releases**
+1) _MusicPlayer_0100: A Horizontal Music Player With Album Name, Album Cover, Album Artist, Linear Progress Bar And Basic Music Actions (Play, Pause, Previous Song, Next Song)_
 
-2) MusicPlayer_0101: This Is The Improvised Version
+2) _MusicPlayer_0101: This Is The Improvised Version_
 
-   Changes Made:-
+   _Changes Made:-_
 
-   • Background Is Now The Album Cover Which Is Blurred, Darkened And Filtered B&W
+   • _Background Is Now The Album Cover Which Is Blurred, Darkened And Filtered B&W_
 
-   • Album Cover Got A Background Shadow
+   • _Album Cover Got A Background Shadow_
  
-   • Album Name And Album Artist Text Is Now Balanced And Improvised
+   • _Album Name And Album Artist Text Is Now Balanced And Improvised_
 
 ![MusicPlayer_0101 kwgt](https://github.com/RohithPai07/KWGT-Widgets/assets/152018343/6f86ebdf-e82e-4eda-a643-c78ad8fa2c42)
 
 
-3) MusicPlayer_0200: A Vertical More Of A Square Music Player With Album Name, Album Cover, Album Artist, Circular Progress Bar And All The Basic Music Actions (Play, Pause, Previous Song, Next Song)
+3) _MusicPlayer_0200: A Vertical More Of A Square Music Player With Album Name, Album Cover, Album Artist, Circular Progress Bar And All The Basic Music Actions (Play, Pause, Previous Song, Next Song)_
 
 ![MusicPlayer_0200 kwgt](https://github.com/RohithPai07/KWGT-Widgets/assets/152018343/c9da3830-bfa5-4b4a-9b9b-68ba8d9fc319)
 
-*All the images shown are for illustration purposes only.
+<sup> *All the images shown are for illustration purposes only. <sup/>
